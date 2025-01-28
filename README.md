@@ -2,6 +2,8 @@
 
 This is a simple automation project that works on a home network and allows for simple messaging, file transfers, and more.
 
+#I Am No longer maintaining this project, please see [automation_v2](https://github.com/Felix-Galle/automation_v2.git)
+
 ## Features
 
 - Messaging between devices on the network.
